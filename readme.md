@@ -10,6 +10,8 @@ O objetivo foi criar uma interface com o tema de 'cards de Pokemon', na qual ser
 
 ![](src/imagens/layout.jpg)
 
+Acesse o link e veja o projeto rodando: <https://ecstatic-shaw-cc1afb.netlify.app>
+
 ## Tecnologias utilizadas:
 
 * HTML5
