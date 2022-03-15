@@ -41,6 +41,7 @@
     margin-top: -70px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    max-height: 314px;
 }
 .cartao-pokemon .cartao-informacoes h3 {
     font-size: 20px;
