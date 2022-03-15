@@ -58,7 +58,6 @@ listaSelecaoPokemons.forEach(pokemon => {
 avancar.addEventListener('click', () => {
      
     numeroEvolucao++
-    console.log(numeroEvolucao)
     //saber qual pokemon está ativo
     let PokemonAtivo = document.querySelector('.ativo')
     let idPokemonAtivo = PokemonAtivo.attributes.id.value
@@ -82,7 +81,6 @@ voltar.addEventListener('click', () => {
     
     pokemonEvolucao.classList.remove('atual')
     numeroEvolucao = numeroEvolucao - 1
-    console.log(numeroEvolucao)
     
     if (numeroEvolucao == 1) {
         voltar.classList.remove('some')
